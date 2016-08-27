@@ -20,23 +20,23 @@ Participants violating these rules may be sanctioned or expelled from the event 
 
 ## Harassment includes
 
-    * Offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, mental illness, physical appearance, body size, race, ethnicity, religion, or healthcare choices
-    * Inappropriate physical contact
-    * Gratuitous display of sexual images in public spaces
-    * Deliberate intimidation or threats of violence
-    * Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
-    * Stalking or following
-    * Harassing photography or recording
-    * Sustained disruption of presentations, discussions, or other events
-    * Unwelcome sexual attention
-    * Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, relationships, drugs, and employment.
-    * Questioning or challenging someone's stated self-identity or chosen labels, even when they conflict with your own views.
-      For example, discussions about the difference between bi vs pan, trans vs trans*, or whether grey/demisexual people are asexual, *even if well-intentioned*
-    * Deliberate misgendering or use of ``dead'' or rejected names
-    * Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
-    * Continued one-on-one communication after requests to cease
-    * Deliberate ``outing'' of any aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse
-    * Publication, distribution, or other broadcast of non-harassing private communication
+  * Offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, mental illness, physical appearance, body size, race, ethnicity, religion, or healthcare choices
+  * Inappropriate physical contact
+  * Gratuitous display of sexual images in public spaces
+  * Deliberate intimidation or threats of violence
+  * Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
+  * Stalking or following
+  * Harassing photography or recording
+  * Sustained disruption of presentations, discussions, or other events
+  * Unwelcome sexual attention
+  * Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, relationships, drugs, and employment.
+  * Questioning or challenging someone's stated self-identity or chosen labels, even when they conflict with your own views.
+    For example, discussions about the difference between bi vs pan, trans vs trans*, or whether grey/demisexual people are asexual, *even if well-intentioned*
+  * Deliberate misgendering or use of ``dead'' or rejected names
+  * Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
+  * Continued one-on-one communication after requests to cease
+  * Deliberate ``outing'' of any aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse
+  * Publication, distribution, or other broadcast of non-harassing private communication
 
 Jokes that resemble the above, such as ``hipster racism'', still count as harassment even if meant satirically or ironically.
 
@@ -44,10 +44,10 @@ Jokes that resemble the above, such as ``hipster racism'', still count as harass
 
 The administrators will not act on complaints regarding:
 
-    * “Reverse”-isms, including ``reverse racism,'' ``reverse sexism,'' and ``cisphobia''
-    * Reasonable communication of boundaries, such as ``leave me alone,'' ``go away,'' or ``I'm not discussing this with you.''
-    * Communicating in a ``tone'' you don't find congenial
-    * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+  * “Reverse”-isms, including ``reverse racism,'' ``reverse sexism,'' and ``cisphobia''
+  * Reasonable communication of boundaries, such as ``leave me alone,'' ``go away,'' or ``I'm not discussing this with you.''
+  * Communicating in a ``tone'' you don't find congenial
+  * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
 
 ## Reporting
@@ -98,5 +98,5 @@ Because of their inherent complexity, it is too easy to step on toes even if you
 Footnote:
 
 Original source and credit: http://lgbtq.technology/coc.html & http://confcodeofconduct.com & http://2012.jsconf.us/#/about & The Ada Initiative
-Please help by translating or improving: http://github.com/deeglaze/cttghc
+Please help by translating or improving: https://github.com/cttghc/CoC
 This work is licensed under a Creative Commons Attribution 3.0 Unported License
