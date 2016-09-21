@@ -14,7 +14,7 @@ You have our contact details in the emails we've sent.
 
 Our events are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or healthcare choices.
 We do not tolerate harassment of participants in any form.
-Sexual language and imagery is not appropriate for any venue, including talks, workshops, fairs, socials, Twitter and other online media.
+Sexual language and imagery outside the provisions for sex-positive booths is not appropriate for any venue, including talks, workshops, fairs, socials, Twitter and other online media.
 Participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the organisers.
 
 
