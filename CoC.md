@@ -40,7 +40,7 @@ Participants violating these rules may be sanctioned or expelled from the event 
 
 Jokes that resemble the above, such as ``hipster racism'', still count as harassment even if meant satirically or ironically.
 
-## Marginalized people's safety is prioritizes over privileged people's comfort.
+## Marginalized people's safety is prioritized over privileged people's comfort.
 
 The administrators will not act on complaints regarding:
 
